@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fast-backward.svg</file>
+        <file>fast-forward.svg</file>
+        <file>filter-alt.svg</file>
+        <file>next.svg</file>
+        <file>retweet.svg</file>
+        <file>shuffle.svg</file>
+        <file>sound-max.svg</file>
+        <file>upload-3.svg</file>
+        <file>pause.svg</file>
+        <file>sound-mute-alt.svg</file>
+    </qresource>
+</RCC>

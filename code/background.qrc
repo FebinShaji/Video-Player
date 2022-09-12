@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>main_interface.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>background2.jpg</file>
+        <file>background3.jpeg</file>
+        <file>background4.jpeg</file>
+        <file>print-alt.svg</file>
+        <file>backgroundscrollarea1.jpg</file>
+        <file>scrollarea.png</file>
+        <file>scrollarea2.png</file>
+        <file>scrollarea3.png</file>
+        <file>scrollarea4.png</file>
+    </qresource>
+</RCC>

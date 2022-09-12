@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>log-in-2.svg</file>
+        <file>maximize-size.svg</file>
+        <file>sign-out-2.svg</file>
+    </qresource>
+</RCC>
